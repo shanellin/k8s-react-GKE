@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  PROJECT_ID: k8s-react-GKE
+  PROJECT_ID: k8s-react-gke
   GKE_CLUSTER: k8s-react-cluster
   GKE_ZONE: asia-east2-a
   IMAGE_NAME: docker-react
