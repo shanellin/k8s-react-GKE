@@ -11,7 +11,7 @@ on:
 env:
   PROJECT_ID: k8s-react-gke
   GKE_CLUSTER: k8s-react-cluster
-  GKE_ZONE: asia-east2-a
+  GKE_ZONE: asia-east1-a
   IMAGE_NAME: docker-react
   
 jobs:
